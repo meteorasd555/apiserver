@@ -1,8 +1,11 @@
 {
     "dir": {
         "controller": "controller",
-        "views": "views"
+        "views": "views",
+        "public": "public"
     },
     "routeRules": "p/m",          
-    "basePort": 3000
+    "basePort": 3000,
+    "apiPort": 3001,
+    "apiDoc": "E:/github/apiDoc"
 }
