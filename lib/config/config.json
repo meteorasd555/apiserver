@@ -1,0 +1,8 @@
+{
+    "dir": {
+        "controller": "controller",
+        "views": "views"
+    },
+    "routeRules": "p/m",          
+    "basePort": 3000
+}
