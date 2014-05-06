@@ -7,5 +7,7 @@
     "routeRules": "p/m",          
     "basePort": 3000,
     "apiPort": 3001,
-    "apiDoc": "E:/github/apiDoc"
+    "apiDoc": "E:/github/apiDoc",
+    "apiDocExt": "dson",
+    "stringifyDocExt": "js"
 }
