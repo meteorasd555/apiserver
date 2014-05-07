@@ -7,8 +7,8 @@
     "routeRules": "p/m",          
     "basePort": 3000,
     "apiPort": 3001,
-    "apiDoc": "E:/github/apiDoc",
+    "apiDoc": "E:/svn/sinan/src/api",
     "apiDocExt": "dson",
-    "stringifyDocExt": "js",
-    "html": "php"
+    "stringifyDocExt": "json",
+    "static_host": "http://localhost:7777"
 }
