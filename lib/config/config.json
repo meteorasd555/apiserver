@@ -9,5 +9,6 @@
     "apiPort": 3001,
     "apiDoc": "E:/github/apiDoc",
     "apiDocExt": "dson",
-    "stringifyDocExt": "js"
+    "stringifyDocExt": "js",
+    "html": "php"
 }
